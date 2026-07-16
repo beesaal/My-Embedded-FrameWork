@@ -1,0 +1,24 @@
+{
+    "cortex-debug.openocdPath": "openocd",
+    "fileCopier.excludedFolders": [
+        "PC_Tools",
+        "Build",
+        ".vscode",
+        "Docs",
+        "stm32f411.ld",
+        "startup_stm32f411xe.s",
+        "next to do note.txt",
+        ""
+    ],
+    "fileCopier.excludedPatterns": [
+        "PC_Tools",
+        "Docs",
+        ".vscode",
+        "Build",
+        "startup_stm32f411xe.s",
+        "stm32f411.ld",
+        "next to do note.txt",
+        "PC_Tools",
+        ""
+    ]
+}
